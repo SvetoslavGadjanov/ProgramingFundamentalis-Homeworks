@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\03.DiagonalDifference\bin\Debug\03.DiagonalDifference.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\03.DiagonalDifference\bin\Debug\03.DiagonalDifference.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\03.DiagonalDifference\bin\Debug\03.DiagonalDifference.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\03.DiagonalDifference\obj\Debug\03.DiagonalDifference.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\03.DiagonalDifference\obj\Debug\03.DiagonalDifference.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\03.DiagonalDifference\obj\Debug\03.DiagonalDifference.pdb

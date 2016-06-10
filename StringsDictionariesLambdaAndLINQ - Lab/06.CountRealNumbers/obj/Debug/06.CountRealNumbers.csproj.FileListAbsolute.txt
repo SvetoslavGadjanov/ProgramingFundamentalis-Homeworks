@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\06.CountRealNumbers\bin\Debug\06.CountRealNumbers.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\06.CountRealNumbers\bin\Debug\06.CountRealNumbers.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\06.CountRealNumbers\bin\Debug\06.CountRealNumbers.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\06.CountRealNumbers\obj\Debug\06.CountRealNumbers.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\06.CountRealNumbers\obj\Debug\06.CountRealNumbers.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\06.CountRealNumbers\obj\Debug\06.CountRealNumbers.pdb

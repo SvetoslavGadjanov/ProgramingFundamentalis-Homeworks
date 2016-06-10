@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\04.SquaresInMatrix\bin\Debug\04.SquaresInMatrix.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\04.SquaresInMatrix\bin\Debug\04.SquaresInMatrix.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\04.SquaresInMatrix\bin\Debug\04.SquaresInMatrix.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\04.SquaresInMatrix\obj\Debug\04.SquaresInMatrix.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\04.SquaresInMatrix\obj\Debug\04.SquaresInMatrix.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\04.SquaresInMatrix\obj\Debug\04.SquaresInMatrix.pdb

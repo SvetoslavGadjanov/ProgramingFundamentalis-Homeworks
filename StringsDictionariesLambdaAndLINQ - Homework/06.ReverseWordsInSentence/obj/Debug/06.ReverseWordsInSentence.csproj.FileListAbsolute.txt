@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\06.ReverseWordsInSentence\bin\Debug\06.ReverseWordsInSentence.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\06.ReverseWordsInSentence\bin\Debug\06.ReverseWordsInSentence.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\06.ReverseWordsInSentence\bin\Debug\06.ReverseWordsInSentence.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\06.ReverseWordsInSentence\obj\Debug\06.ReverseWordsInSentence.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\06.ReverseWordsInSentence\obj\Debug\06.ReverseWordsInSentence.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\06.ReverseWordsInSentence\obj\Debug\06.ReverseWordsInSentence.csprojResolveAssemblyReference.cache

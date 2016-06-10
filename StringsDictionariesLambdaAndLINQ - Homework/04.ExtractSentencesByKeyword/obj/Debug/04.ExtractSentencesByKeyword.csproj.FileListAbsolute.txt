@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\04.ExtractSentencesByKeyword\bin\Debug\04.ExtractSentencesByKeyword.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\04.ExtractSentencesByKeyword\bin\Debug\04.ExtractSentencesByKeyword.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\04.ExtractSentencesByKeyword\bin\Debug\04.ExtractSentencesByKeyword.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\04.ExtractSentencesByKeyword\obj\Debug\04.ExtractSentencesByKeyword.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\04.ExtractSentencesByKeyword\obj\Debug\04.ExtractSentencesByKeyword.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\04.ExtractSentencesByKeyword\obj\Debug\04.ExtractSentencesByKeyword.pdb

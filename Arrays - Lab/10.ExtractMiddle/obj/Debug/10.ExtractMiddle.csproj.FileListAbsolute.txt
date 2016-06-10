@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\10.ExtractMiddle\bin\Debug\10.ExtractMiddle.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\10.ExtractMiddle\bin\Debug\10.ExtractMiddle.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\10.ExtractMiddle\bin\Debug\10.ExtractMiddle.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\10.ExtractMiddle\obj\Debug\10.ExtractMiddle.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\10.ExtractMiddle\obj\Debug\10.ExtractMiddle.pdb

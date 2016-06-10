@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\10.PairsByDifference\bin\Debug\10.PairsByDifference.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\10.PairsByDifference\bin\Debug\10.PairsByDifference.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\10.PairsByDifference\bin\Debug\10.PairsByDifference.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\10.PairsByDifference\obj\Debug\10.PairsByDifference.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\10.PairsByDifference\obj\Debug\10.PairsByDifference.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\10.PairsByDifference\obj\Debug\10.PairsByDifference.pdb

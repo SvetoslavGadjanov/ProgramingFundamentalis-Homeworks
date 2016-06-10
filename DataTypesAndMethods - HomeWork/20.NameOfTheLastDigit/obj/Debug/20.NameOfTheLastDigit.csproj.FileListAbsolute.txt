@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\20.NameOfTheLastDigit\bin\Debug\20.NameOfTheLastDigit.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\20.NameOfTheLastDigit\bin\Debug\20.NameOfTheLastDigit.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\20.NameOfTheLastDigit\bin\Debug\20.NameOfTheLastDigit.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\20.NameOfTheLastDigit\obj\Debug\20.NameOfTheLastDigit.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\20.NameOfTheLastDigit\obj\Debug\20.NameOfTheLastDigit.pdb

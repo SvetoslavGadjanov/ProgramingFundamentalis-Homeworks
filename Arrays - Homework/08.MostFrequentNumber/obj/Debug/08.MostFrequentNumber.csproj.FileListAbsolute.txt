@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\08.MostFrequentNumber\bin\Debug\08.MostFrequentNumber.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\08.MostFrequentNumber\bin\Debug\08.MostFrequentNumber.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\08.MostFrequentNumber\bin\Debug\08.MostFrequentNumber.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\08.MostFrequentNumber\obj\Debug\08.MostFrequentNumber.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\08.MostFrequentNumber\obj\Debug\08.MostFrequentNumber.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\08.MostFrequentNumber\obj\Debug\08.MostFrequentNumber.pdb

@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\ExactSum\bin\Debug\ExactSum.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\ExactSum\bin\Debug\ExactSum.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\ExactSum\bin\Debug\ExactSum.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\ExactSum\obj\Debug\ExactSum.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\ExactSum\obj\Debug\ExactSum.pdb

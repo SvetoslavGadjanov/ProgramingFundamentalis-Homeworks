@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\05.SortNumbers\bin\Debug\05.SortNumbers.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\05.SortNumbers\bin\Debug\05.SortNumbers.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\05.SortNumbers\bin\Debug\05.SortNumbers.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\05.SortNumbers\obj\Debug\05.SortNumbers.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\05.SortNumbers\obj\Debug\05.SortNumbers.pdb

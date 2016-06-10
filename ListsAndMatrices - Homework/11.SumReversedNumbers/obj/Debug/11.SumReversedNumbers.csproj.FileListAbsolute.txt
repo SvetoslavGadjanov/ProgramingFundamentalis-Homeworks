@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\11.SumReversedNumbers\bin\Debug\11.SumReversedNumbers.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\11.SumReversedNumbers\bin\Debug\11.SumReversedNumbers.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\11.SumReversedNumbers\bin\Debug\11.SumReversedNumbers.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\11.SumReversedNumbers\obj\Debug\11.SumReversedNumbers.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\11.SumReversedNumbers\obj\Debug\11.SumReversedNumbers.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\11.SumReversedNumbers\obj\Debug\11.SumReversedNumbers.pdb

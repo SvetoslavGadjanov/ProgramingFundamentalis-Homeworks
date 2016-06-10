@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\03.CensorYourEmailAddress\bin\Debug\03.CensorYourEmailAddress.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\03.CensorYourEmailAddress\bin\Debug\03.CensorYourEmailAddress.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\03.CensorYourEmailAddress\bin\Debug\03.CensorYourEmailAddress.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\03.CensorYourEmailAddress\obj\Debug\03.CensorYourEmailAddress.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\03.CensorYourEmailAddress\obj\Debug\03.CensorYourEmailAddress.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\03.CensorYourEmailAddress\obj\Debug\03.CensorYourEmailAddress.pdb

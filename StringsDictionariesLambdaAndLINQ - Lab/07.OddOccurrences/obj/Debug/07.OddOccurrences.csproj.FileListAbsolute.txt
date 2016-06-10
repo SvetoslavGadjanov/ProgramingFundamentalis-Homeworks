@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\07.OddOccurrences\bin\Debug\07.OddOccurrences.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\07.OddOccurrences\bin\Debug\07.OddOccurrences.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\07.OddOccurrences\bin\Debug\07.OddOccurrences.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\07.OddOccurrences\obj\Debug\07.OddOccurrences.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\07.OddOccurrences\obj\Debug\07.OddOccurrences.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\07.OddOccurrences\obj\Debug\07.OddOccurrences.pdb

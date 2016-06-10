@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\19.MaxMethod\bin\Debug\19.MaxMethod.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\19.MaxMethod\bin\Debug\19.MaxMethod.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\19.MaxMethod\bin\Debug\19.MaxMethod.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\19.MaxMethod\obj\Debug\19.MaxMethod.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\19.MaxMethod\obj\Debug\19.MaxMethod.pdb

@@ -1,0 +1,1 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\05.ForbiddenSubstrings\bin\Debug\05.ForbiddenSubstrings.exe.config

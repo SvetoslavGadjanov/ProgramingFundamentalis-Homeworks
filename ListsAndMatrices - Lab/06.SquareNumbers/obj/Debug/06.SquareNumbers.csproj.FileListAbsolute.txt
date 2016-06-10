@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\06.SquareNumbers\bin\Debug\06.SquareNumbers.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\06.SquareNumbers\bin\Debug\06.SquareNumbers.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\06.SquareNumbers\bin\Debug\06.SquareNumbers.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\06.SquareNumbers\obj\Debug\06.SquareNumbers.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\06.SquareNumbers\obj\Debug\06.SquareNumbers.pdb

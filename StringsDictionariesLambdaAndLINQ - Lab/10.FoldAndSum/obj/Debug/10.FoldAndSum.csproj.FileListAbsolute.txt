@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\10.FoldAndSum\bin\Debug\10.FoldAndSum.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\10.FoldAndSum\bin\Debug\10.FoldAndSum.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\10.FoldAndSum\bin\Debug\10.FoldAndSum.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\10.FoldAndSum\obj\Debug\10.FoldAndSum.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\10.FoldAndSum\obj\Debug\10.FoldAndSum.pdb

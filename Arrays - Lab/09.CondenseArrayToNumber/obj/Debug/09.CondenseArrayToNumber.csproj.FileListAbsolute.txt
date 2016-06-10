@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\09.CondenseArrayToNumber\bin\Debug\09.CondenseArrayToNumber.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\09.CondenseArrayToNumber\bin\Debug\09.CondenseArrayToNumber.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\09.CondenseArrayToNumber\bin\Debug\09.CondenseArrayToNumber.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\09.CondenseArrayToNumber\obj\Debug\09.CondenseArrayToNumber.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\09.CondenseArrayToNumber\obj\Debug\09.CondenseArrayToNumber.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\09.CondenseArrayToNumber\obj\Debug\09.CondenseArrayToNumber.pdb

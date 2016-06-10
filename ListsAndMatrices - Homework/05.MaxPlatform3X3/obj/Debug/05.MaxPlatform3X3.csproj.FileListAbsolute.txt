@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\05.MaxPlatform3X3\bin\Debug\05.MaxPlatform3X3.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\05.MaxPlatform3X3\bin\Debug\05.MaxPlatform3X3.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\05.MaxPlatform3X3\bin\Debug\05.MaxPlatform3X3.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\05.MaxPlatform3X3\obj\Debug\05.MaxPlatform3X3.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\05.MaxPlatform3X3\obj\Debug\05.MaxPlatform3X3.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\05.MaxPlatform3X3\obj\Debug\05.MaxPlatform3X3.pdb

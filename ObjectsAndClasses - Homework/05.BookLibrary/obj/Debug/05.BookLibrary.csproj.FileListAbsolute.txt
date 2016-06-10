@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\05.BookLibrary\bin\Debug\05.BookLibrary.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\05.BookLibrary\bin\Debug\05.BookLibrary.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\05.BookLibrary\bin\Debug\05.BookLibrary.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\05.BookLibrary\obj\Debug\05.BookLibrary.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\05.BookLibrary\obj\Debug\05.BookLibrary.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\05.BookLibrary\obj\Debug\05.BookLibrary.pdb

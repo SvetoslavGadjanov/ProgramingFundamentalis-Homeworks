@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\Test\bin\Debug\Test.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\Test\bin\Debug\Test.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\Test\bin\Debug\Test.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\Test\obj\Debug\Test.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\Test\obj\Debug\Test.pdb

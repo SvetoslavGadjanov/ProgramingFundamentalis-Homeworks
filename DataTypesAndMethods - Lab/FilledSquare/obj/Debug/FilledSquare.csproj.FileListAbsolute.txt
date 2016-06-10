@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\FilledSquare\bin\Debug\FilledSquare.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\FilledSquare\bin\Debug\FilledSquare.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\FilledSquare\bin\Debug\FilledSquare.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\FilledSquare\obj\Debug\FilledSquare.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\FilledSquare\obj\Debug\FilledSquare.pdb

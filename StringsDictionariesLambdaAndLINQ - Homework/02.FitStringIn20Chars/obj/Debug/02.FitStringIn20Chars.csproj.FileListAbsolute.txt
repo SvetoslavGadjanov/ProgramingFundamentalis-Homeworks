@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\02.FitStringIn20Chars\bin\Debug\02.FitStringIn20Chars.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\02.FitStringIn20Chars\bin\Debug\02.FitStringIn20Chars.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\02.FitStringIn20Chars\bin\Debug\02.FitStringIn20Chars.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\02.FitStringIn20Chars\obj\Debug\02.FitStringIn20Chars.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\02.FitStringIn20Chars\obj\Debug\02.FitStringIn20Chars.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\02.FitStringIn20Chars\obj\Debug\02.FitStringIn20Chars.pdb

@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\05.TripleSum\bin\Debug\05.TripleSum.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\05.TripleSum\bin\Debug\05.TripleSum.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\05.TripleSum\bin\Debug\05.TripleSum.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\05.TripleSum\obj\Debug\05.TripleSum.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\05.TripleSum\obj\Debug\05.TripleSum.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\05.TripleSum\obj\Debug\05.TripleSum.pdb

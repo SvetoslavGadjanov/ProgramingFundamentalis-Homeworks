@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\AnimalType\bin\Debug\AnimalType.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\AnimalType\bin\Debug\AnimalType.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\AnimalType\bin\Debug\AnimalType.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\AnimalType\obj\Debug\AnimalType.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\AnimalType\obj\Debug\AnimalType.pdb

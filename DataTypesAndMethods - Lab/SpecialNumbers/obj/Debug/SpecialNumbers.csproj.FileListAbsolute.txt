@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\SpecialNumbers\obj\Debug\SpecialNumbers.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\SpecialNumbers\obj\Debug\SpecialNumbers.pdb

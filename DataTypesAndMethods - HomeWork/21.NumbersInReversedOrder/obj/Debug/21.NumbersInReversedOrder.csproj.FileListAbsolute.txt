@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\21.NumbersInReversedOrder\bin\Debug\21.NumbersInReversedOrder.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\21.NumbersInReversedOrder\bin\Debug\21.NumbersInReversedOrder.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\21.NumbersInReversedOrder\bin\Debug\21.NumbersInReversedOrder.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\21.NumbersInReversedOrder\obj\Debug\21.NumbersInReversedOrder.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\21.NumbersInReversedOrder\obj\Debug\21.NumbersInReversedOrder.pdb

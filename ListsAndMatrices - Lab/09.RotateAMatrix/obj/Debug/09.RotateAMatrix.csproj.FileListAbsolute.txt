@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\09.RotateAMatrix\bin\Debug\09.RotateAMatrix.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\09.RotateAMatrix\bin\Debug\09.RotateAMatrix.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\09.RotateAMatrix\bin\Debug\09.RotateAMatrix.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\09.RotateAMatrix\obj\Debug\09.RotateAMatrix.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\09.RotateAMatrix\obj\Debug\09.RotateAMatrix.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\09.RotateAMatrix\obj\Debug\09.RotateAMatrix.pdb

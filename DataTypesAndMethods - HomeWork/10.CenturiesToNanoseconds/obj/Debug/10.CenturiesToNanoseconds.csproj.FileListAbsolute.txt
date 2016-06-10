@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\10.CenturiesToNanoseconds\bin\Debug\10.CenturiesToNanoseconds.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\10.CenturiesToNanoseconds\bin\Debug\10.CenturiesToNanoseconds.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\10.CenturiesToNanoseconds\bin\Debug\10.CenturiesToNanoseconds.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.pdb

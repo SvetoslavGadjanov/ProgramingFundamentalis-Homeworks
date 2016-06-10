@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\08.Capitalization\bin\Debug\08.Capitalization.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\08.Capitalization\bin\Debug\08.Capitalization.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\08.Capitalization\bin\Debug\08.Capitalization.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\08.Capitalization\obj\Debug\08.Capitalization.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\08.Capitalization\obj\Debug\08.Capitalization.pdb

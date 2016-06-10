@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\11.ConvertSpeedUnits\obj\Debug\11.ConvertSpeedUnits.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\11.ConvertSpeedUnits\obj\Debug\11.ConvertSpeedUnits.pdb

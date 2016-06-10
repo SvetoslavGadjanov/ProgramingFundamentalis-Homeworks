@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\07.SalesReport\bin\Debug\07.SalesReport.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\07.SalesReport\bin\Debug\07.SalesReport.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\07.SalesReport\bin\Debug\07.SalesReport.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\07.SalesReport\obj\Debug\07.SalesReport.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\07.SalesReport\obj\Debug\07.SalesReport.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\07.SalesReport\obj\Debug\07.SalesReport.pdb

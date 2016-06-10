@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\12.RectangleProperties\bin\Debug\12.RectangleProperties.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\12.RectangleProperties\bin\Debug\12.RectangleProperties.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\12.RectangleProperties\bin\Debug\12.RectangleProperties.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\12.RectangleProperties\obj\Debug\12.RectangleProperties.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\12.RectangleProperties\obj\Debug\12.RectangleProperties.pdb

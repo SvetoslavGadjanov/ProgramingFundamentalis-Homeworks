@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\02.CountLettersInString\bin\Debug\02.CountLettersInString.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\02.CountLettersInString\bin\Debug\02.CountLettersInString.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\02.CountLettersInString\bin\Debug\02.CountLettersInString.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\02.CountLettersInString\obj\Debug\02.CountLettersInString.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\02.CountLettersInString\obj\Debug\02.CountLettersInString.pdb

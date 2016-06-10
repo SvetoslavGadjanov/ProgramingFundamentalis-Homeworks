@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\16.PrintPartOfTheASCII\bin\Debug\16.PrintPartOfTheASCII.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\16.PrintPartOfTheASCII\bin\Debug\16.PrintPartOfTheASCII.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\16.PrintPartOfTheASCII\bin\Debug\16.PrintPartOfTheASCII.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\16.PrintPartOfTheASCII\obj\Debug\16.PrintPartOfTheASCII.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\16.PrintPartOfTheASCII\obj\Debug\16.PrintPartOfTheASCII.pdb

@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\08.BuildMatrixOfLetters\bin\Debug\08.BuildMatrixOfLetters.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\08.BuildMatrixOfLetters\bin\Debug\08.BuildMatrixOfLetters.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\08.BuildMatrixOfLetters\bin\Debug\08.BuildMatrixOfLetters.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\08.BuildMatrixOfLetters\obj\Debug\08.BuildMatrixOfLetters.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\08.BuildMatrixOfLetters\obj\Debug\08.BuildMatrixOfLetters.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\08.BuildMatrixOfLetters\obj\Debug\08.BuildMatrixOfLetters.pdb

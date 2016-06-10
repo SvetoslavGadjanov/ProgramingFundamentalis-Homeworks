@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\06.RoundingNumbersAwayFromZero\bin\Debug\06.RoundingNumbersAwayFromZero.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\06.RoundingNumbersAwayFromZero\bin\Debug\06.RoundingNumbersAwayFromZero.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\06.RoundingNumbersAwayFromZero\bin\Debug\06.RoundingNumbersAwayFromZero.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\06.RoundingNumbersAwayFromZero\obj\Debug\06.RoundingNumbersAwayFromZero.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\06.RoundingNumbersAwayFromZero\obj\Debug\06.RoundingNumbersAwayFromZero.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\06.RoundingNumbersAwayFromZero\obj\Debug\06.RoundingNumbersAwayFromZero.pdb

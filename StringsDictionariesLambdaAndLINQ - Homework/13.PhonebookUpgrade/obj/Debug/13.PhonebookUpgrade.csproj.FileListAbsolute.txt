@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\13.PhonebookUpgrade\bin\Debug\13.PhonebookUpgrade.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\13.PhonebookUpgrade\bin\Debug\13.PhonebookUpgrade.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\13.PhonebookUpgrade\bin\Debug\13.PhonebookUpgrade.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\13.PhonebookUpgrade\obj\Debug\13.PhonebookUpgrade.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\13.PhonebookUpgrade\obj\Debug\13.PhonebookUpgrade.pdb

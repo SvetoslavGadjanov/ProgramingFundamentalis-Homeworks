@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\02.ReverseArrayOfIntegers\bin\Debug\02.ReverseArrayOfIntegers.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\02.ReverseArrayOfIntegers\bin\Debug\02.ReverseArrayOfIntegers.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\02.ReverseArrayOfIntegers\bin\Debug\02.ReverseArrayOfIntegers.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\02.ReverseArrayOfIntegers\obj\Debug\02.ReverseArrayOfIntegers.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\02.ReverseArrayOfIntegers\obj\Debug\02.ReverseArrayOfIntegers.pdb

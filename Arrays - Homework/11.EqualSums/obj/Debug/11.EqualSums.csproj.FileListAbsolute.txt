@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\11.EqualSums\bin\Debug\11.EqualSums.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\11.EqualSums\bin\Debug\11.EqualSums.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\11.EqualSums\bin\Debug\11.EqualSums.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\11.EqualSums\obj\Debug\11.EqualSums.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\11.EqualSums\obj\Debug\11.EqualSums.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\11.EqualSums\obj\Debug\11.EqualSums.pdb

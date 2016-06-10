@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\04.SplitByWordCasing\bin\Debug\04.SplitByWordCasing.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\04.SplitByWordCasing\bin\Debug\04.SplitByWordCasing.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\04.SplitByWordCasing\bin\Debug\04.SplitByWordCasing.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\04.SplitByWordCasing\obj\Debug\04.SplitByWordCasing.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\04.SplitByWordCasing\obj\Debug\04.SplitByWordCasing.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\04.SplitByWordCasing\obj\Debug\04.SplitByWordCasing.pdb

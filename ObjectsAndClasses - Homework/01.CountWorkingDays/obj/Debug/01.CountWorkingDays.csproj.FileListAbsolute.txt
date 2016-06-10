@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\01.CountWorkingDays\bin\Debug\01.CountWorkingDays.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\01.CountWorkingDays\bin\Debug\01.CountWorkingDays.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\01.CountWorkingDays\bin\Debug\01.CountWorkingDays.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\01.CountWorkingDays\obj\Debug\01.CountWorkingDays.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\01.CountWorkingDays\obj\Debug\01.CountWorkingDays.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\01.CountWorkingDays\obj\Debug\01.CountWorkingDays.pdb

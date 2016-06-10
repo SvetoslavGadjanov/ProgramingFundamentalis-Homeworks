@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\04.SieveOfEratosthenes\bin\Debug\04.SieveOfEratosthenes.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\04.SieveOfEratosthenes\bin\Debug\04.SieveOfEratosthenes.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\04.SieveOfEratosthenes\bin\Debug\04.SieveOfEratosthenes.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\04.SieveOfEratosthenes\obj\Debug\04.SieveOfEratosthenes.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\04.SieveOfEratosthenes\obj\Debug\04.SieveOfEratosthenes.pdb

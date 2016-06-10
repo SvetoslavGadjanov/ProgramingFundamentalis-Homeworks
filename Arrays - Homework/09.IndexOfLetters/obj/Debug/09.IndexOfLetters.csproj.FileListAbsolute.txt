@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\09.IndexOfLetters\bin\Debug\09.IndexOfLetters.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\09.IndexOfLetters\bin\Debug\09.IndexOfLetters.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\09.IndexOfLetters\bin\Debug\09.IndexOfLetters.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\09.IndexOfLetters\obj\Debug\09.IndexOfLetters.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\09.IndexOfLetters\obj\Debug\09.IndexOfLetters.pdb

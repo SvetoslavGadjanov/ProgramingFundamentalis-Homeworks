@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\04.AverageGrades\bin\Debug\04.AverageGrades.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\04.AverageGrades\bin\Debug\04.AverageGrades.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\04.AverageGrades\bin\Debug\04.AverageGrades.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\04.AverageGrades\obj\Debug\04.AverageGrades.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\04.AverageGrades\obj\Debug\04.AverageGrades.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\04.AverageGrades\obj\Debug\04.AverageGrades.pdb

@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\06.RectanglePosition\bin\Debug\06.RectanglePosition.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\06.RectanglePosition\bin\Debug\06.RectanglePosition.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\06.RectanglePosition\bin\Debug\06.RectanglePosition.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\06.RectanglePosition\obj\Debug\06.RectanglePosition.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\06.RectanglePosition\obj\Debug\06.RectanglePosition.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\06.RectanglePosition\obj\Debug\06.RectanglePosition.pdb

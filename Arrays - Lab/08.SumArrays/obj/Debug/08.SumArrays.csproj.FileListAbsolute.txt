@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\08.SumArrays\bin\Debug\08.SumArrays.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\08.SumArrays\bin\Debug\08.SumArrays.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\08.SumArrays\bin\Debug\08.SumArrays.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\08.SumArrays\obj\Debug\08.SumArrays.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\08.SumArrays\obj\Debug\08.SumArrays.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\08.SumArrays\obj\Debug\08.SumArrays.pdb

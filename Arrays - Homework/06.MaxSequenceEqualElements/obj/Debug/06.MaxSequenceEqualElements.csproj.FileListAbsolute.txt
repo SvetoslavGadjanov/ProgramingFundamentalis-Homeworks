@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\06.MaxSequenceEqualElements\bin\Debug\06.MaxSequenceEqualElements.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\06.MaxSequenceEqualElements\bin\Debug\06.MaxSequenceEqualElements.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\06.MaxSequenceEqualElements\bin\Debug\06.MaxSequenceEqualElements.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\06.MaxSequenceEqualElements\obj\Debug\06.MaxSequenceEqualElements.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\06.MaxSequenceEqualElements\obj\Debug\06.MaxSequenceEqualElements.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\06.MaxSequenceEqualElements\obj\Debug\06.MaxSequenceEqualElements.pdb

@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\1.DayOfWeek\bin\Debug\1.DayOfWeek.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\1.DayOfWeek\bin\Debug\1.DayOfWeek.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\1.DayOfWeek\bin\Debug\1.DayOfWeek.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\1.DayOfWeek\obj\Debug\1.DayOfWeek.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\1.DayOfWeek\obj\Debug\1.DayOfWeek.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\1.DayOfWeek\obj\Debug\1.DayOfWeek.pdb

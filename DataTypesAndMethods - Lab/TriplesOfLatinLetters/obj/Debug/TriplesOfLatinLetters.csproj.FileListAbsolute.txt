@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.pdb

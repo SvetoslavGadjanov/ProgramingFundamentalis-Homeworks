@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\04.LastKNumbersSumsSequence\bin\Debug\04.LastKNumbersSumsSequence.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\04.LastKNumbersSumsSequence\bin\Debug\04.LastKNumbersSumsSequence.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\04.LastKNumbersSumsSequence\bin\Debug\04.LastKNumbersSumsSequence.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\04.LastKNumbersSumsSequence\obj\Debug\04.LastKNumbersSumsSequence.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\04.LastKNumbersSumsSequence\obj\Debug\04.LastKNumbersSumsSequence.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\04.LastKNumbersSumsSequence\obj\Debug\04.LastKNumbersSumsSequence.pdb

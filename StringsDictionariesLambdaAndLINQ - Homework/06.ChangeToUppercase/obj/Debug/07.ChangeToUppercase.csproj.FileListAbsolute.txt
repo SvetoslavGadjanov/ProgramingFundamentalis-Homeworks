@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\06.ChangeToUppercase\bin\Debug\06.ChangeToUppercase.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\06.ChangeToUppercase\bin\Debug\06.ChangeToUppercase.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\06.ChangeToUppercase\bin\Debug\06.ChangeToUppercase.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\06.ChangeToUppercase\obj\Debug\07.ChangeToUppercase.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\06.ChangeToUppercase\obj\Debug\06.ChangeToUppercase.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\06.ChangeToUppercase\obj\Debug\06.ChangeToUppercase.pdb

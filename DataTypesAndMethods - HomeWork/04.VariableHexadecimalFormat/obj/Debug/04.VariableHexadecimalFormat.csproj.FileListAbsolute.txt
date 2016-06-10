@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\04.VariableHexadecimalFormat\bin\Debug\04.VariableHexadecimalFormat.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\04.VariableHexadecimalFormat\bin\Debug\04.VariableHexadecimalFormat.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\04.VariableHexadecimalFormat\bin\Debug\04.VariableHexadecimalFormat.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\04.VariableHexadecimalFormat\obj\Debug\04.VariableHexadecimalFormat.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\04.VariableHexadecimalFormat\obj\Debug\04.VariableHexadecimalFormat.pdb

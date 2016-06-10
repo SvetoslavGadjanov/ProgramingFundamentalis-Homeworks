@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\03.BigFactorial\bin\Debug\03.BigFactorial.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\03.BigFactorial\bin\Debug\03.BigFactorial.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\03.BigFactorial\bin\Debug\03.BigFactorial.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\03.BigFactorial\obj\Debug\03.BigFactorial.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\03.BigFactorial\obj\Debug\03.BigFactorial.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Lab\03.BigFactorial\obj\Debug\03.BigFactorial.pdb

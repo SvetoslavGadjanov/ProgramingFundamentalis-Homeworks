@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\10.PalindromeIndex\bin\Debug\10.PalindromeIndex.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\10.PalindromeIndex\bin\Debug\10.PalindromeIndex.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\10.PalindromeIndex\bin\Debug\10.PalindromeIndex.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\10.PalindromeIndex\obj\Debug\10.PalindromeIndex.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\10.PalindromeIndex\obj\Debug\10.PalindromeIndex.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Homework\10.PalindromeIndex\obj\Debug\10.PalindromeIndex.pdb

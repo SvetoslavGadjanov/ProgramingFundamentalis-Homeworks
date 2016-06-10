@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\03.SumAdjacentEqualNumbers\bin\Debug\03.SumAdjacentEqualNumbers.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\03.SumAdjacentEqualNumbers\bin\Debug\03.SumAdjacentEqualNumbers.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\03.SumAdjacentEqualNumbers\bin\Debug\03.SumAdjacentEqualNumbers.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\03.SumAdjacentEqualNumbers\obj\Debug\03.SumAdjacentEqualNumbers.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Lab\03.SumAdjacentEqualNumbers\obj\Debug\03.SumAdjacentEqualNumbers.pdb

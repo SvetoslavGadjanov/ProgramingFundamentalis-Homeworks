@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\07.MaxSequenceOfIncreasingElements\bin\Debug\07.MaxSequenceOfIncreasingElements.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\07.MaxSequenceOfIncreasingElements\bin\Debug\07.MaxSequenceOfIncreasingElements.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\07.MaxSequenceOfIncreasingElements\bin\Debug\07.MaxSequenceOfIncreasingElements.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\07.MaxSequenceOfIncreasingElements\obj\Debug\07.MaxSequenceOfIncreasingElements.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\07.MaxSequenceOfIncreasingElements\obj\Debug\07.MaxSequenceOfIncreasingElements.pdb

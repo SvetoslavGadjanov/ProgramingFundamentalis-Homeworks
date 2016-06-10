@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\02.RotateAndSum\bin\Debug\02.RotateAndSum.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\02.RotateAndSum\bin\Debug\02.RotateAndSum.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\02.RotateAndSum\bin\Debug\02.RotateAndSum.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\02.RotateAndSum\obj\Debug\02.RotateAndSum.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\02.RotateAndSum\obj\Debug\02.RotateAndSum.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Homework\02.RotateAndSum\obj\Debug\02.RotateAndSum.csprojResolveAssemblyReference.cache

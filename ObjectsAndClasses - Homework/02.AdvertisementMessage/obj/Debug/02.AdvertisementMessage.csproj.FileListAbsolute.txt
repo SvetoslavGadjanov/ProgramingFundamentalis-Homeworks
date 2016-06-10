@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\02.AdvertisementMessage\bin\Debug\02.AdvertisementMessage.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\02.AdvertisementMessage\bin\Debug\02.AdvertisementMessage.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\02.AdvertisementMessage\obj\Debug\02.AdvertisementMessage.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\02.AdvertisementMessage\obj\Debug\02.AdvertisementMessage.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ObjectsAndClasses - Homework\02.AdvertisementMessage\obj\Debug\02.AdvertisementMessage.pdb

@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.pdb

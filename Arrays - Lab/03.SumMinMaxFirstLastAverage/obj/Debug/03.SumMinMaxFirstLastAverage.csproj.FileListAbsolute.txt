@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\03.SumMinMaxFirstLastAverage\bin\Debug\03.SumMinMaxFirstLastAverage.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\03.SumMinMaxFirstLastAverage\bin\Debug\03.SumMinMaxFirstLastAverage.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\03.SumMinMaxFirstLastAverage\bin\Debug\03.SumMinMaxFirstLastAverage.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\03.SumMinMaxFirstLastAverage\obj\Debug\03.SumMinMaxFirstLastAverage.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\03.SumMinMaxFirstLastAverage\obj\Debug\03.SumMinMaxFirstLastAverage.pdb

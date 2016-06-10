@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\25.MasterNumbers\bin\Debug\25.MasterNumbers.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\25.MasterNumbers\bin\Debug\25.MasterNumbers.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\25.MasterNumbers\bin\Debug\25.MasterNumbers.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\25.MasterNumbers\obj\Debug\25.MasterNumbers.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\25.MasterNumbers\obj\Debug\25.MasterNumbers.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\25.MasterNumbers\obj\Debug\25.MasterNumbers.pdb

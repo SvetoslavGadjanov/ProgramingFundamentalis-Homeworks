@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\07.ReverseArrayOfStrings\bin\Debug\07.ReverseArrayOfStrings.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\07.ReverseArrayOfStrings\bin\Debug\07.ReverseArrayOfStrings.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\07.ReverseArrayOfStrings\bin\Debug\07.ReverseArrayOfStrings.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\07.ReverseArrayOfStrings\obj\Debug\07.ReverseArrayOfStrings.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\Arrays - Lab\07.ReverseArrayOfStrings\obj\Debug\07.ReverseArrayOfStrings.pdb

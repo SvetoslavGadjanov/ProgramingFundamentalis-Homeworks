@@ -1,0 +1,9 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - Lab\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - Lab\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - Lab\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.pdb

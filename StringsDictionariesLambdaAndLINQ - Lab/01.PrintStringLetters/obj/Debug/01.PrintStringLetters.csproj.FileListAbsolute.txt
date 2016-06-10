@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\01.PrintStringLetters\bin\Debug\01.PrintStringLetters.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\01.PrintStringLetters\bin\Debug\01.PrintStringLetters.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\01.PrintStringLetters\bin\Debug\01.PrintStringLetters.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\01.PrintStringLetters\obj\Debug\01.PrintStringLetters.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\01.PrintStringLetters\obj\Debug\01.PrintStringLetters.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\01.PrintStringLetters\obj\Debug\01.PrintStringLetters.pdb

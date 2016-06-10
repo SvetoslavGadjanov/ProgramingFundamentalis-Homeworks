@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\02.MatrixOfPalindromes\bin\Debug\02.MatrixOfPalindromes.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\02.MatrixOfPalindromes\bin\Debug\02.MatrixOfPalindromes.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\02.MatrixOfPalindromes\bin\Debug\02.MatrixOfPalindromes.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\02.MatrixOfPalindromes\obj\Debug\02.MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\02.MatrixOfPalindromes\obj\Debug\02.MatrixOfPalindromes.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\02.MatrixOfPalindromes\obj\Debug\02.MatrixOfPalindromes.pdb

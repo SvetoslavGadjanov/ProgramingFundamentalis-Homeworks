@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\09.ShortWordsSorted\bin\Debug\09.ShortWordsSorted.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\09.ShortWordsSorted\bin\Debug\09.ShortWordsSorted.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\09.ShortWordsSorted\bin\Debug\09.ShortWordsSorted.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\09.ShortWordsSorted\obj\Debug\09.ShortWordsSorted.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\09.ShortWordsSorted\obj\Debug\09.ShortWordsSorted.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\StringsDictionariesLambdaAndLINQ - Lab\09.ShortWordsSorted\obj\Debug\09.ShortWordsSorted.pdb

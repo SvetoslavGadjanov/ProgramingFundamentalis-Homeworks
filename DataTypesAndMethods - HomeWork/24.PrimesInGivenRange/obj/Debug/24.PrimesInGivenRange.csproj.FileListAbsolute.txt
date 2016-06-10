@@ -1,0 +1,5 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\24.PrimesInGivenRange\bin\Debug\24.PrimesInGivenRange.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\24.PrimesInGivenRange\bin\Debug\24.PrimesInGivenRange.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\24.PrimesInGivenRange\bin\Debug\24.PrimesInGivenRange.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\24.PrimesInGivenRange\obj\Debug\24.PrimesInGivenRange.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\DataTypesAndMethods - HomeWork\24.PrimesInGivenRange\obj\Debug\24.PrimesInGivenRange.pdb

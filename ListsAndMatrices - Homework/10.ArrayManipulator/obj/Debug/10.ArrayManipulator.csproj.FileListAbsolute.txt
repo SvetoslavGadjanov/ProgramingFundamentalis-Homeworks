@@ -1,0 +1,6 @@
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\10.ArrayManipulator\bin\Debug\10.ArrayManipulator.exe.config
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\10.ArrayManipulator\bin\Debug\10.ArrayManipulator.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\10.ArrayManipulator\bin\Debug\10.ArrayManipulator.pdb
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\10.ArrayManipulator\obj\Debug\10.ArrayManipulator.csprojResolveAssemblyReference.cache
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\10.ArrayManipulator\obj\Debug\10.ArrayManipulator.exe
+D:\SftwareUni\TechModule\Programing Fundamentalis\Homeworks\ListsAndMatrices - Homework\10.ArrayManipulator\obj\Debug\10.ArrayManipulator.pdb
